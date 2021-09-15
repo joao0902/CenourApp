@@ -1,2 +1,2 @@
 # CenourApp
-Projeto Escolar
+https://joao0902.github.io/CenourApp/
